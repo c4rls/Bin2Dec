@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Bin2Dec</string>
+    <string name="app_description">Binary to decimal converter</string>
+    <string name="text_input">Entry a binary number</string>
+    <string name="result">Result</string>
+    <string name="text_button">Convert</string>
 </resources>
