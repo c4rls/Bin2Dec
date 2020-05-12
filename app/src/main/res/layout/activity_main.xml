@@ -55,7 +55,7 @@
         android:layout_marginTop="16dp"
         android:background="@drawable/edit_text_background"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="numberSigned|numberDecimal"
         android:textAlignment="center"
         android:textColor="#868686"
         android:textColorLink="@android:color/black"
