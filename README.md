@@ -30,3 +30,7 @@ constraints:
 ## Bonus features
 
 -   [x] User can enter a variable number of binary digits
+
+## Screenshots
+
+![](screenshots/app.png)
